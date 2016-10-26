@@ -1,0 +1,8 @@
+{
+  "name": "tst/cmb2-attached-posts",
+  "version": "1.2.2",
+  "type" : "wordpress-plugin",
+  "require" : {
+    "composer/installers" : "~1.0"
+  }
+}
