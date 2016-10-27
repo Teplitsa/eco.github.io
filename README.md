@@ -1,5 +1,5 @@
-![alt tag](https://pp.vk.me/c836523/v836523451/c302/CqzLXigOJs8.jpg)
 #Сайт Экопульсар - экологическая афиша Барнаула
+![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 Победитель конкураса малых сайтов
 
 **Установка на хостинг**
