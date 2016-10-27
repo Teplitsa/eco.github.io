@@ -1,5 +1,5 @@
 #Сайт Экопульсар - экологическая афиша Барнаула
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://pp.vk.me/c836523/v836523451/c302/CqzLXigOJs8.jpg)
 Победитель конкураса малых сайтов
 
 **Установка на хостинг**
@@ -44,4 +44,3 @@
 	- Удалить утилиту с сервера.
 	
 9. Сайт отвечает по адресу http://yourredcross.ru. Вход в админку http://yourredcross.ru/core/wp-login.php с логином giger и паролем 121121. Необходимо создать нового пользователя http://yourredcross.ru/core/wp-admin/user-new.php, а аккаунт giger удалить.
-
